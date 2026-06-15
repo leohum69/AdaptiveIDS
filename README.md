@@ -235,5 +235,3 @@ Output includes:
 * Backup copies of original models
 
 ---
-
-END OF README
